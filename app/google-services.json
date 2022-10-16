@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522116205569",
+    "project_id": "fir-deaed",
+    "storage_bucket": "fir-deaed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522116205569:android:e683fb2628f53979344400",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522116205569-q5f4s70aaevnjo273tinucinpcg85ago.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhtSfWnr7FVVmdy6_eyPJcTIpp_usHSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522116205569-q5f4s70aaevnjo273tinucinpcg85ago.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
